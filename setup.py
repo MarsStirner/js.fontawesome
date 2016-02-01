@@ -28,8 +28,6 @@ setup(
     zip_safe=False,
     install_requires=[
         'fanstatic',
-        'js.bootstrap',
-        'js.angular',
         'setuptools',
     ],
     entry_points={
